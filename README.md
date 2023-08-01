@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moammar Qaddafi
-- 👀 I’m interested in Mobile App Development (Android, Flutter and more) 
+- 👀 I’m interested in Mobile App Development (Flutter, Android and more) 
 - 🌱 I’m currently learning advance mobile app development with flutter and native frameworks like Android. 
 - 💞️ I’m looking to collaborate on task based projects which will help me improvise my skill set. I am open to work remotely and onsite. 
 - 📫 How to reach me 
